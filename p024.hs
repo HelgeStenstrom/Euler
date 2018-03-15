@@ -1,4 +1,4 @@
--- En kommentar
+-- https://projecteuler.net/problem=24
 
 -- Jag har en hierarkiskt ordnad lista, med grupper och subgrupper.
 -- Varje grupp på en viss nivå är lika stor.
